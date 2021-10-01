@@ -1,7 +1,7 @@
 <?php 
 $Ovh_serv_bDd = "mysql:host=illicabfuxbase.mysql.db;dbname=illicabfuxbase";
 $uTil_bDd_serv="illicabfuxbase";
-$mDp_bDd_serv="NeuroRobin59";
+$mDp_bDd_serv="XXXXXX";
 $Prefix="Illicab_";
 
 $Home="http://www.illicab.fr";
